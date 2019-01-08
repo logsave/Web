@@ -8,7 +8,7 @@
 
 ## tips
 
-1. 多个人分别用一下命令克隆项目到本地
+1. 多个人分别用以下命令克隆项目到本地
 > $ git clone [https://github.com/RyanUaa/Web.git](https://github.com/RyanUaa/Web.git) 
 
 2. 创建远程origin的dev分支到本地，于是可以用
